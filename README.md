@@ -1,6 +1,6 @@
 # CSV-file-divisor-
 
-Este projeto é uma aplicação web full-stack, composta por uma API em Python utilizando Flask e uma interface frontend em React. Ele oferece funcionalidades de CRUD ((Create, Read, Update, Delete) completas para gerenciar dados, além de um recurso adicional de manipulação de arquivos CSV.
+Este projeto é uma aplicação web full-stack, composta por uma API em Python utilizando Flask e uma interface frontend em React. Ele oferece funcionalidades de CRUD (Create, Read, Update, Delete) completas para gerenciar dados, além de um recurso adicional de manipulação de arquivos CSV.
 
 Funcionalidades:
 + CRUD Completo: A API permite operações completas de CRUD (Create, Read, Update, Delete).
